@@ -1,0 +1,44 @@
+h1 {text-align: center;
+    color: snow;
+    background-color: skyblue;
+    height: 60px;
+    }
+
+section {display: flex;
+justify-content: center;}
+
+body { margin: 2%;}
+
+article {padding: 10px;
+margin: 10px;
+background-color: lightgrey;}
+
+.h2 {
+    align-content: center;
+}
+
+h3 {
+    align-content: center;
+}
+
+h4 {align-content: center;}
+
+img {
+    width: 200px;
+    height: auto;
+} 
+
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+footer {
+    text-align: center;
+    color: snow;
+    font-size: large;
+    background-color: skyblue;
+    height: 60px;
+}
