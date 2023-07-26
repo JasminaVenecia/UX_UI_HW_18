@@ -1,0 +1,35 @@
+header {background-color: black;}
+
+    h1 {text-align: center;
+    color: skyblue;
+    background-color: black;
+    height: 70px;}
+
+section {display: flex;
+justify-content: center;}
+
+body { margin: 2%;}
+
+article {padding: 10px;
+margin: 10px;
+background-color: lightgrey;}
+
+img {
+    width: 200px;
+    height: auto;
+} 
+
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+footer {
+    text-align: center;
+    color: skyblue;
+    font-size: large;
+    background-color: black;
+    height: 60px;
+}
